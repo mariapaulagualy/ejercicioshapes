@@ -1,2 +1,2 @@
-# ejercicioshapes
-Ejercicio "shapes" de Herramientas Digitales
+# ejercicios processing
+Ejercicios básicos Processing Herramientas Digitales
